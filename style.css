@@ -307,7 +307,6 @@ nav{
     font-weight: 550;
     border-radius: 5px;
     padding: 20px 20px;
-    font-size: x-large;
     cursor: pointer;
 }
 /* Section 5 Ends */
@@ -437,7 +436,6 @@ footer{
     font-size: 2.8rem;
 
 }
-
 .texts_fill p{
     font-size: 1.2rem;
     font-weight: 50;
